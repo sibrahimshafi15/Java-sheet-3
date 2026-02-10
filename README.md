@@ -1,1 +1,9 @@
-# Java-sheet-3
+<img width="1365" height="634" alt="Q1S3" src="https://github.com/user-attachments/assets/40e5d508-29e3-4ba9-bc96-a5e2e5faf7aa" />
+<img width="1365" height="631" alt="Q2S3" src="https://github.com/user-attachments/assets/a3765d12-4417-468d-94aa-94aab8cf1017" />
+<img width="1365" height="631" alt="Q3S3" src="https://github.com/user-attachments/assets/844ad5c3-a5a1-424c-9cc3-cc0b916ff3fb" />
+<img width="1365" height="633" alt="Q4S3" src="https://github.com/user-attachments/assets/5aac0ade-dd91-47ce-9b97-50a28cbe7ec6" />
+<img width="1365" height="631" alt="Q5S3" src="https://github.com/user-attachments/assets/6d908ce6-867d-4177-82e5-584d1aff412c" />
+<img width="1365" height="627" alt="Q6S3" src="https://github.com/user-attachments/assets/92ecec3b-25e6-421c-a0d9-16c043d5047c" />
+<img width="1365" height="638" alt="Q7S3" src="https://github.com/user-attachments/assets/03088fb1-c5b5-4f81-a667-052330df67c7" />
+<img width="1357" height="686" alt="Q8S3" src="https://github.com/user-attachments/assets/ccf63a8c-a1bc-4b3c-a869-486478f4839b" />
+<img width="1365" height="637" alt="Q9S3" src="https://github.com/user-attachments/assets/afc1da2c-7068-4e61-9d70-deeac7cdb456" />
